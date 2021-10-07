@@ -6,11 +6,11 @@ Uygulama Açıklaması
 
 ## Kullanılan Diller ve Yetenekler
 
-| Dil / Yetenek | % |
-| ------------- |:-------------:|
-| Java | 90 |
-| JFrame | 80 |
-| SQLite | 70 |
+| Dil / Yetenek | :arrow_right: | % |
+| ------------- |:-------------:|:-------------:|
+| Java | :arrow_right: | 90 |
+| JFrame | :arrow_right: | 80 |
+| SQLite | :arrow_right: | 70 |
 
 
 
