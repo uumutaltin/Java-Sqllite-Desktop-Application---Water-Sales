@@ -76,7 +76,8 @@ Java, JFrame ve SQLite kullanılarak müşteriler ile ürünler(su) arasında sa
 <img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-20.jpg" width="200" style="max-width:100%;"></a>  
   
 <a href="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-21.jpg" target="_blank">
-<img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-21.jpg" width="200" style="max-width:100%;"></a>   
+<img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-21.jpg" width="200" style="max-width:100%;">
+</a>   
   
 <a href="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-22.jpg" target="_blank">
 <img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-22.jpg" width="200" style="max-width:100%;"></a> 
