@@ -2,7 +2,7 @@
 
 Java, JFrame ve SQLite kullanılarak müşteriler ile ürünler(su) arasında satış, takip ve kontrol mekanizmalarına sahip bir otomasyon uygulamasıdır.
 
-## Uygulama Görselleri
+
 
 ## Kullanılan Diller ve Yetenekler
 
@@ -12,7 +12,7 @@ Java, JFrame ve SQLite kullanılarak müşteriler ile ürünler(su) arasında sa
 | JFrame | :arrow_right: | 80 |
 | SQLite | :arrow_right: | 70 |
 
-
+## Uygulama Görselleri
 
 <p>
 <a href="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-2.jpg" target="_blank">
