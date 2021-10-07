@@ -93,4 +93,10 @@ Uygulama Açıklaması
  <a href="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-26.jpg" target="_blank">
 <img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-26.jpg" width="200" style="max-width:100%;"></a>  
   
+<a href="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-27.jpg" target="_blank">
+<img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-27.jpg" width="200" style="max-width:100%;"></a>   
+
+<a href="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-28.jpg" target="_blank">
+<img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-28.jpg" width="200" style="max-width:100%;"></a>   
+  
   </p>
