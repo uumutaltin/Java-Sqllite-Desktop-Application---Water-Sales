@@ -1,6 +1,6 @@
 # Java Sqllite Desktop Application Water Sales
 
-Uygulama Açıklaması
+Java, JFrame ve SQLite kullanılarak su satış, takip ve kontrol mekanizmalarına sahip bir otomasyon uygulamasıdır.
 
 ## Uygulama Görselleri
 
