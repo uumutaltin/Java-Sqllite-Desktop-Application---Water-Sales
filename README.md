@@ -46,7 +46,8 @@ Uygulama Açıklaması
 <img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-11.jpg" width="200" style="max-width:100%;"></a>
   
 <a href="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-12.jpg" target="_blank">
-<img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-12.jpg" width="200" style="max-width:100%;"></a>  
+<img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-12.jpg" width="200" style="max-width:100%;">
+</a>  
   
 <a href="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-13.jpg" target="_blank">
 <img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-13.jpg" width="200" style="max-width:100%;"></a>  
@@ -109,4 +110,4 @@ Uygulama Açıklaması
 <img src="https://github.com/uumutaltin/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/gorseller/Su_Satis_Otomasyon-page-31.jpg" width="200" style="max-width:100%;"></a>   
   
   
-  </p>
+ </p>
